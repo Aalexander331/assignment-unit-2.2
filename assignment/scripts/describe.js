@@ -26,8 +26,8 @@ if (number >= 2) {
 
 
 // 1. WRITE YOUR DESCRIPTION HERE
-// 
-// 
+// We defined the variable name as the name Dane. We set a con that if th name is equal to the value of Mary then the responding message will say 
+// Hi Mary! but if the name does not equal mary it will ask the question How do you do?
 // 
 //
 
@@ -45,10 +45,10 @@ if (name === 'Mary') {
 */
 
 // 2. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We defined the variable secret to our library. we defined the variale code as 123. we set a cont that if code is equal to the value
+// of 123 then the variable secret will equeal super and the code will equal th previously defined variable 123 multiplied by the number 2.
+// But if the code is greater than 250 the secret variable will then be defined as duper. After setting the cont we ran the code to see which
+//will populate.
 
 //CODE
 /*
@@ -70,10 +70,11 @@ console.log(secret)
 */
 
 // 3. WRITE YOUR DESCRIPTION HERE
-// 
-// 
-// 
-//
+// We defined isStudent as a true boolean. We defined age as 34 and define zip as 55407. We created an if else statement that if the  
+// isStudent is equal to the value of true and the correct zipcode is greater than the number 80000 it will display the message "You're a student on the West Coast!"
+// if the isStudent is false and their age is less than 30 it will display the question what are you hobies? if the isStudent is equal to the vale of true
+// it will display the message of welcome to Prime! as well as asking How about the weather?
+
 
 //CODE
 /*
@@ -130,12 +131,12 @@ if (number >= 2) {
 // -- it is, so we set colorOne and colorTwo to 'purple'
 
 /*
-let colorOne = 'red';
-let colorTwo = 'blue';
+let colorOne = 'blue';
+let colorTwo = 'red';
 let mix = true;
 
 if (mix === true) {
-  colorOne = 'purple';
+  colorOne + colorTwo = 'purple';
 }
 */
 
@@ -147,7 +148,7 @@ if (mix === true) {
 let temp = 40;
 const time = 4;
 
-if (temp > 39 || time >= 4) {
+if (temp > 39 || time =< 4) {
   console.log('throw away the food!');
 }
 */
@@ -160,10 +161,9 @@ if (temp > 39 || time >= 4) {
 let age = 21;
 const minAge = 21;
 
-if(minAge <= age) {
-  console.log('no entry');
-} else {
+if(minAge =< age) {
   console.log('enter');
+} else {
+  console.log('no entry');
 }
 */
-
